@@ -1,0 +1,123 @@
+nav{
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    color: black;
+}
+a{
+    display: flex;
+    text-align: left;
+    padding: 10px 10px;
+    color: white;
+    
+}
+ul{
+    display: flex;
+    text-align: left;
+    padding: 10px 10px; 
+    list-style: none;
+    width: 100%;
+    color: white;
+
+}
+li{
+    color: white;
+    text-align: center;
+}
+.back{
+    background-image:url("img/apexhome.jpeg");
+    height: 300px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.blk{
+    text-align: center;
+    color: white;
+}
+.flw{
+    color: white;
+    font-size: 17px;
+    padding: 5px 148px;
+    
+}
+
+.hlw{
+    text-align: center;
+
+}
+.cntr{
+    padding-right: 150px;
+}
+.cntr2{
+    display: flex;
+    margin-left: 110px;
+}
+.cntr3{
+    padding-left: 190px;
+}
+button{
+    height: 40px;
+    width: 130px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+button:hover{
+color: black;
+background-color: white;
+
+}
+.hi{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+}
+
+img{
+    padding-left: 14px;
+    height: 45px;
+    width: 15%;
+}
+.imgs{
+    background-image: url("img/jama,juta,bag.jpeg");
+    height: 230px;
+    width: 38%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: right;
+    left: 150px;
+    bottom:  150px;
+    position: absolute;
+    z-index: 2;
+}
+video {
+    width: 100%;
+    height: 100%;
+ 
+  }
+
+  .vidio{
+    width: 40%;
+    height: 550px;
+    position:absolute;
+    top: 290px;
+    right: 160px;
+  }
+
+
+ .mothwrr{
+   
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+ }
+
+ .fffff{
+    height: 200px;
+    
+ }
